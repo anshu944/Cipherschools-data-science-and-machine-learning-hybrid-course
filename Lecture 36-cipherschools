@@ -9,4 +9,7 @@ make_pipline    - creates pipeline of transforms within the final estimater
 Train_test_split- splits dataset into training and tseting data
 dash, dcc(dash core component), html, dash.dependencies, Input, Output helps to import the dash libraries and their sub modules
 
-punk tokeniser splitting sentences into words
+dcc and html content helps to create interactive UI component
+
+punk tokeniser from nltk library helps splitting sentences into words
+
